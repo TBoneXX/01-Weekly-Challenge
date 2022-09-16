@@ -14,7 +14,7 @@ The previous code had been divided almost exclusively using "div" elements provi
 
 See screenshot of website linked below:
 
-<img src="/Assets/01-html-css-git-homework-demo.png" title= "Horiseon Home Page">
+<img src="/assets/01-html-css-git-homework-demo.png" title= "Horiseon Home Page">
 
 
 
