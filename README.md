@@ -6,7 +6,7 @@ This project involved refactoring the html code for a SEO company website to imp
 
 ### Accessibility
 
-Alt text descriptions were added to the pertininent images to ensure screen readers can capture the important information presented in each image.
+Alt text descriptions were added to the pertinent images to ensure screen readers can capture the important information presented in each image.
 
 ### HTML Structure and Semantics
 
